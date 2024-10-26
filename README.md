@@ -507,7 +507,7 @@ h1:not(.gallery-title) { /* Any h1 that's not your gallery title */
 <body>
     <header class="header">
         <div class="header-content">
-            <div class="logo">GENESIS-</div>
+            <div class="logo">GENESIS</div>
             <button class="connect-wallet">
                 <i class="fas fa-wallet"></i>
                 Connect
