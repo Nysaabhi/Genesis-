@@ -496,6 +496,12 @@
                 height: 35px;
             }
         }
+
+    /* Add this to your existing <style> tag in the HTML */
+.project-name, /* GitHub Pages class */
+h1:not(.gallery-title) { /* Any h1 that's not your gallery title */
+    display: none !important;
+}
     </style>
 </head>
 <body>
