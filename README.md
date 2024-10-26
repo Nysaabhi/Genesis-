@@ -1,4 +1,3 @@
-# gallery
 <html>
 <head>
     <title>Premium NFT Gallery</title>
@@ -108,7 +107,7 @@
         .gallery-title {
             text-align: center;
             margin-bottom: 30px;
-            font-size: 2em;
+            font-size: 1em;
             background: var(--premium-gradient);
             -webkit-background-clip: text;
             color: transparent;
@@ -510,7 +509,7 @@
     </header>
 
     <div class="gallery-container-card">
-        <h1 class="gallery-title">Premium NFT Collection</h1>
+        <h1 class="gallery-title"> NFT Collection</h1>
         <div class="gallery-container">
             <div class="carousel-wrapper">
                 <!-- NFT Cards will be dynamically inserted here -->
