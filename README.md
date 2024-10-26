@@ -84,7 +84,7 @@
 
         .gallery-container-card {
             max-width: 1400px;
-            margin: 0 auto;
+            margin: 0;
             background: rgba(20, 21, 25, 0.7);
             border-radius: 30px;
             border: 1px solid rgba(255, 215, 0, 0.1);
